@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheikhoo
 
-|<a href="https://github.com/jashakouri"><img src="https://github-readme-stats.vercel.app/api?username=sheikhoo&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="Anurag's github stats" /></a> | <a href="https://github.com/jashakouri"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhoo&layout=compact&theme=dark&hide_border=false" /></a> |
+|<a href="https://github.com/jashakouri"><img src="https://github-readme-stats.vercel.app/api?username=sheikhoo&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="github stats" style="max-width: 100%;height: 200px;" /></a> | <a href="https://github.com/jashakouri"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhoo&layout=compact&theme=dark&hide_border=false" style="max-width: 100%;height: 200px;" /></a> |
 | - | - |
 
 - 👀 I’m interested in ☕︎Java and 🍃SpringBoot
